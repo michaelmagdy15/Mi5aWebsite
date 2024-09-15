@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments for Mitry Visuals	</title>
-	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://michaelmagdy15.github.io/Mi5aWebsite/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://michaelmagdy15.github.io/Mi5aWebsite/</link>
 	<description></description>
 	<lastBuildDate>Fri, 13 Sep 2024 12:52:02 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		Comment on Hello world! by A WordPress Commenter		</title>
-		<link>/hello-world/#comment-1</link>
+		<link>https://michaelmagdy15.github.io/Mi5aWebsite/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Fri, 13 Sep 2024 12:52:02 +0000</pubDate>
-		<guid isPermaLink="false">/?p=1#comment-1</guid>
+		<guid isPermaLink="false">https://michaelmagdy15.github.io/Mi5aWebsite/?p=1#comment-1</guid>
 
 					<description><![CDATA[Hi, this is a comment.
 To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
